@@ -31,7 +31,7 @@ abstract class InventoryDatabase : RoomDatabase() {
                     InventoryDatabase::class.java,
                     "item_database"
                 )
-                    .fallbackToDestructiveMigration() // destroy and rebuild the data base if entity changes
+                    .fallbackToDestructiveMigration() // migration strategy: destroy and rebuild the data base if entity changes
                     .build() // create the database instance and initialize it
                     .also {
                         Instance = it // keeps the reference to the recently created db
