@@ -35,16 +35,24 @@ Funcionalidades de la aplicación
 --------------
 
 1. Creación de articulos del inventario
-![inventory_add.jpg](app%2Fsampledata%2Finventory_add.jpg)
+
+<img src="sampledata/inventory_add.jpg" width="250" alt="add item" />
 
 2. Validación de los datos
-![inventory_validation.jpg](app%2Fsampledata%2Finventory_validation.jpg)
+
+<img src="sampledata/inventory_validation.jpg" width="250" alt="add item" />
+
 
 3. Consulta de artículos
-![inventory_read.jpg](app%2Fsampledata%2Finventory_read.jpg)
+
+<img src="sampledata/inventory_read.jpg" width="250" alt="add item" />
+
 
 4. Detalle de artículo y funcionalidad de venta
-![inventory_details.jpg](app%2Fsampledata%2Finventory_details.jpg)
+
+<img src="sampledata/inventory_details.jpg" width="250" alt="add item" />
+
 
 5. Actualización de los datos del artículo
-![inventory_update.jpg](app%2Fsampledata%2Finventory_update.jpg)
+
+<img src="sampledata/inventory_update.jpg" width="250" alt="add item" />
