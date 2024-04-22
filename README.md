@@ -60,4 +60,4 @@ Funcionalidades de la aplicación
 
 6. Estructura de la base de datos
 
-<img src="https://github.com/EduardoPosas/android-room-db-implementation/blob/608e6c99e74ff5c3970a508b5cc25219efdaee00/app/sampledata/inventory_database.png" alt="update item screen" />
+<img src="https://github.com/EduardoPosas/android-room-db-implementation/blob/608e6c99e74ff5c3970a508b5cc25219efdaee00/app/sampledata/inventory_database.png" alt="inventory db screen" />
