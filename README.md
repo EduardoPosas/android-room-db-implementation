@@ -38,13 +38,13 @@ Componentes utilizados
 Funcionalidades de la aplicación
 --------------
 
-1. Creación de articulos del inventario
-
-<img src="https://github.com/EduardoPosas/android-room-db-implementation/blob/608e6c99e74ff5c3970a508b5cc25219efdaee00/app/sampledata/inventory_add.jpg" width="250" alt="add item screen" />
-
-2. Validación de los datos
+1. Validación de los datos del artículo
 
 <img src="https://github.com/EduardoPosas/android-room-db-implementation/blob/608e6c99e74ff5c3970a508b5cc25219efdaee00/app/sampledata/inventory_validation.jpg" width="250" alt="item validation screen" />
+
+2. Creación de articulos del inventario
+
+<img src="https://github.com/EduardoPosas/android-room-db-implementation/blob/608e6c99e74ff5c3970a508b5cc25219efdaee00/app/sampledata/inventory_add.jpg" width="250" alt="add item screen" />
 
 3. Consulta de artículos
 
@@ -57,3 +57,7 @@ Funcionalidades de la aplicación
 5. Actualización de los datos del artículo
 
 <img src="https://github.com/EduardoPosas/android-room-db-implementation/blob/608e6c99e74ff5c3970a508b5cc25219efdaee00/app/sampledata/inventory_update.jpg" width="250" alt="update item screen" />
+
+6. Estructura de la base de datos
+
+<img src="https://github.com/EduardoPosas/android-room-db-implementation/blob/608e6c99e74ff5c3970a508b5cc25219efdaee00/app/sampledata/inventory_database.png" alt="update item screen" />
