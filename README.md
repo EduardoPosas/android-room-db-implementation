@@ -36,7 +36,7 @@ Funcionalidades de la aplicación
 
 1. Creación de articulos del inventario
 
-<img src="sampledata/inventory_add.jpg" width="250" alt="add item" />
+<img src="https://github.com/EduardoPosas/android-room-db-implementation/blob/608e6c99e74ff5c3970a508b5cc25219efdaee00/app/sampledata/inventory_add.jpg" width="250" alt="add item" />
 
 2. Validación de los datos
 
